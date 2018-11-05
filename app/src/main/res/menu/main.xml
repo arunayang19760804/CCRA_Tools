@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_Itme"
+        android:title="开始烘陪" />
+    <item
+        android:id="@+id/test_Item"
+        android:enabled="false"
+        android:title="开始杯测"/>
+    <item
+        android:id="@+id/remove_Item"
+        android:enabled="false"
+        android:title="色度检测"/>
+    <item
+        android:id="@+id/exit_Item"
+        android:title="退出系统"/>
+</menu>
